@@ -9,4 +9,10 @@ Some calculations in Scilab to test calculations in Python
 **[Scilab literature (in Russian)](https://vk.com/wall-204728626_42)**          
 - - -
 [Sci-Lab-Implementations](https://github.com/jatinmandav/Sci-Lab-Implementations)
+      
+# Octave         
+**[Octave](https://github.com/gnu-octave)**
+
+https://github.com/TheAlgorithms/MATLAB-Octave
+https://github.com/trekhleb/machine-learning-octave
 
