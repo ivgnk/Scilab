@@ -16,10 +16,20 @@ endfor
 
 # ----------  вывод в файл
 mydir='D:\Work_Lang\Octave\';
+mydir='J:\Work_Lang2\Octave\';
+mydir='j:/Work-Lang2/Octave/';
 myfn='A.txt';
 fn= [mydir myfn];
-# sfprintfMat(fn,A,s,'test');
-save fn, A;
+disp(A); disp(fn);
+# Введение в Octave для инженеров и математиков/ Е. Р. Алексеев, О. В. Чеснокова
+# Москва ALT Linux 2012
+# Глава 3 Программирование 3.4. Работа с файлами
+# стр. 73 - 75
+dlmwrite(fn,A,' ');
+disp('- - -')
+M = dlmread(fn,' ');
+disp('M'); disp(M);
+
 disp('Normal shutdown');
 
 
