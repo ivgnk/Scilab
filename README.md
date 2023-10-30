@@ -11,8 +11,20 @@ Some calculations in Scilab to test calculations in Python
 [Sci-Lab-Implementations](https://github.com/jatinmandav/Sci-Lab-Implementations)
       
 # Octave         
-**[Octave](https://github.com/gnu-octave)**
+**[Octave](https://github.com/gnu-octave)**          
+[github / gnu-octave: A Symbolic Package for Octave using SymPy](https://github.com/gnu-octave/symbolic)            
+[github / gnu-octave: packages](https://github.com/gnu-octave/packages)
+https://github.com/gnu-octave/pkg
+https://github.com/gnu-octave/octave-sqlite
+https://github.com/gnu-octave/statistics
+https://github.com/gnu-octave/octave-pythonic
+https://github.com/gnu-octave/pkg-jupyter-notebook
+- - -           
+https://github.com/TheAlgorithms/MATLAB-Octave              
+https://github.com/trekhleb/machine-learning-octave               
+https://github.com/heterophyllus/OpticalDesign-Toolbox           
+[Useful m-scripts for DSP (CIC, FIR, FFT, Fast convolution, Partial Filters etc.)](https://github.com/hukenovs/math)      
 
-https://github.com/TheAlgorithms/MATLAB-Octave
-https://github.com/trekhleb/machine-learning-octave
+https://github.com/APMonitor/begin_matlab           
+https://github.com/asteinh/tensorflow.m     
 
